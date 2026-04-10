@@ -12,6 +12,6 @@ I'm a data analyst with a background in nursing sciences. I enjoy working with d
 - [sales performance analysis](https://github.com/Bethel-Enumah/Sales_Performance_Analysis)
 - [inventory performance analysis] (...)
 
-  ## Let's connect!
+## Let's connect!
   [Linkedin](https://www.linkedin.com/in/bethel-enumah)
   
