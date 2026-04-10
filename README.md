@@ -9,7 +9,7 @@ I'm a data analyst with a background in nursing sciences. I enjoy working with d
 - Google Docs
   
 ## My Projects
-- [sales performance analysis] (https://github.com/Bethel-Enumah/Sales_Performance_Analysis)
+- [sales performance analysis](https://github.com/Bethel-Enumah/Sales_Performance_Analysis)
 - [inventory performance analysis] (...)
 
   ## Let's connect!
