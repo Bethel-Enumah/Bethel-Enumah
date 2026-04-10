@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Bethel!
 
-<!--
-**Bethel-Enumah/Bethel-Enumah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst with a background in nursing sciences. I enjoy working with data, creating visualizations, and turning numbers into stories that matter.
 
-Here are some ideas to get you started:
+## Tools i work with
+- Microsoft Excel
+- Microsoft Power BI
+- SQL
+- Google Docs
+  
+## My Projects
+- [sales performance analysis] (....)
+- [inventory performance analysis] (...)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Let's connect!
+  [Linkedin](https://www.linkedin.com/in/bethel-enumah)
+  
