@@ -13,5 +13,5 @@ I'm a data analyst with a background in nursing sciences. I enjoy working with d
 - [inventory performance analysis] (...)
 
 ## Let's connect!
-  [Linkedin](https://www.linkedin.com/in/bethel-enumah)
+  [Linkedin](https://linkedin.com/in/bethel-enumah)
   
